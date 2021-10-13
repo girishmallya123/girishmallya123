@@ -1,6 +1,6 @@
 <img src="https://github.com/girishmallya123/girishmallya123/blob/master/assets/github.gif" alt="👋 Hi there! I'm Girish!" title="👋 Hi there! I'm Girish!)"/>]
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00df00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=girishmallya123.girishmallya123&color=00df00)
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
