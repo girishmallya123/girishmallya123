@@ -8,6 +8,7 @@
 - 🌐 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜 𝚏𝚘𝚛 𝚜𝚞𝚖𝚖𝚎𝚛 𝟸0𝟸𝟸. 💻
 - 👨‍💻 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜. 
 - 📝 𝙵𝚒𝚗𝚍 𝚖𝚢 𝚛𝚎𝚜𝚞𝚖𝚎 [𝚑𝚎𝚛𝚎](https://github.com/girishmallya123/girishmallya123/blob/master/resume/Girish_Resume-UF%20-%20Sept%202021.pdf)!
+- 👨‍🔬 Find my research work here! [here](https://scholar.google.com/citations?user=Vjjz2ncAAAAJ&hl=en)!
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚗 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 to visualize graph data structures.  
